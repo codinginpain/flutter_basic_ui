@@ -30,7 +30,7 @@
 **(analysis_options.yaml)**
 
 
-*rules:
+*rules:  
 &nbsp;&nbsp;prefer_const_constructors: false  
 &nbsp;&nbsp;avoid_print: false  
 &nbsp;&nbsp;prefer_typing_uninitialized_variables: false  
